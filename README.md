@@ -19,7 +19,7 @@
 
 - 📝 I regularly write articles on [https://divyendusingh.com/blog](https://divyendusingh.com/blog)
 
-- 💬 Ask me about **Sports Technology, Postgres**
+- 💬 Ask me about **Developer Tools, Sports Technology, Postgres**
 
 - 📫 How to reach me **mail@divyendusingh.com**
 

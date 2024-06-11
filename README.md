@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/divyenduz" target="blank"><img src="https://img.shields.io/twitter/follow/divyenduz?logo=twitter&style=for-the-badge" alt="divyenduz" /></a> </p>
 
-- 🔭 I’m currently working on [TrackFootball.app](https://trackfootball.app)
+- 🔭 I’m currently working on [WriteKey.com](https://writekey.com)
 
-- 🌱 I’m currently learning **Kubernetes**
+- 🌱 I’m currently learning [**Effect**](https://effect.website/)
 
 - 👯 I’m looking to collaborate on [Social+Sports+Impact Projects](https://trackfootball.app)
 
@@ -17,7 +17,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/divyenduz](https://github.com/divyenduz)
 
-- 📝 I regularly write articles on [https://divyendusingh.com/blog](https://divyendusingh.com/blog)
+- 📝 I regularly write articles on [https://blog.divyendusingh.com](https://blog.divyendusingh.com)
 
 - 💬 Ask me about **Developer Tools, Sports Technology, Postgres**
 
